@@ -41,7 +41,9 @@ ________________________________________
 •	DAX – calculated measures and KPIs
 •	Excel/CSV – assumed dataset
 <img width="1553" height="863" alt="High Cloud Airline Dashboard" src="https://github.com/user-attachments/assets/cfa71a2b-2733-4ba2-9f13-5b1dfea852c1" />
+
 <img width="1562" height="862" alt="Dashboard 2" src="https://github.com/user-attachments/assets/b95d5947-e964-4d75-9be0-b4e21bfb5b4a" />
+
 <img width="1508" height="842" alt="Search Carrier For Travel" src="https://github.com/user-attachments/assets/a515c983-23fb-40cc-9ef6-759bbddfb2fa" />
 
 
