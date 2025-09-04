@@ -76,12 +76,6 @@ The dashboard offers interactive filtering, detailed KPIs, and visual insights i
 
 ---
 
-## 📂 Dataset
-- Source: *Sample Airline Operational Data*  
-- Fields include: Departure schedule, Departure performed, Payload, Distance, Carrier details, Routes  
-
----
-
 ## 🖼 Dashboard Screenshots
 
 
