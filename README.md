@@ -108,7 +108,8 @@ The dashboard offers interactive filtering, detailed KPIs, and visual insights i
 
 ## 🙌 Author
 Created by **[Aadesh Botre]**  
-🔗 Connect with me on [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/aadesh-botre-data-analytics/)) | [GitHub](https://github.com)
+🔗 Connect with me on [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/aadesh-botre-data-analytics/)) 
+[Connect with me on LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/aadesh-botre-data-analytics/))
 
 
 
